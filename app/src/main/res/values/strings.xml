@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">apping_i2_p21_ghibliquiz</string>
+    <string name="textview">TextView</string>
+    <string name="textViewTitle">The QUIZ</string>
+</resources>
